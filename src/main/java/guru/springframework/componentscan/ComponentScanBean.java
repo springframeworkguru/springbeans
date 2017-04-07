@@ -12,5 +12,6 @@ public class ComponentScanBean implements HelloBean
 	public void sayHello()
 	{
 		System.out.println("Hello, I'm a Component Scan Bean!!");
+		System.out.println("Hello,");
 	}
 }
